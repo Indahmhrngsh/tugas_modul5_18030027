@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prak1Andro_Day5</string>
+    <string name="action_sign_in_short" />
+    <string name="prompt_email" />
+    <string name="error_invalid_password" />
+    <string name="error_field_required" />
+    <string name="error_invalid_email" />
+</resources>
